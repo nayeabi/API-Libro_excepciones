@@ -62,5 +62,12 @@ public class LibroController {
                 .body(ex.getMessage());
     }
 }
+En nuestro directorio tenemos una subcarpeta "main" que dentro de ella contiene otra carpeta llamada controller en el que contendra una clase llamada LibroController
+[![p1.jpg](https://i.postimg.cc/v8SfPLtx/p1.jpg)](https://postimg.cc/14w8XFTy)
+En la otra carpeta "models" tenemos a la clase libro
+[![p2.jpg](https://i.postimg.cc/Vsrs9jGN/p2.jpg)](https://postimg.cc/6TKNtGNs)
+En la carpeta repository tenemos una clase "LibroRepository" que contiene los datos de los libros
+![image](https://github.com/nayeabi/API-Libro_excepciones/assets/147847823/fc4abff4-f356-4f50-a19f-0b81a611bcc3)
+PRUEBAS DE EJECUCIÓN
 [![prueba.jpg](https://i.postimg.cc/wB4R7Jn0/prueba.jpg)](https://postimg.cc/XZFYPZjC)
 [![evidencia.jpg](https://i.postimg.cc/JhS7fQfV/evidencia.jpg)](https://postimg.cc/nsYt7qV0)
